@@ -6,4 +6,4 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
   server:
-    enableSelfPreservation: false # Disable self-preservation mode
+    enableSelfPreservation: true # Disable self-preservation mode
